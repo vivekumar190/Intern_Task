@@ -17,6 +17,7 @@ token:{
 },
 isAdmin:{
     type:Boolean,
+    default:false
 }
 },{timeseries:true});
 
